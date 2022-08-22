@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicNativeLib</string>
+    <string name="title_nativefeature">Native Feature</string>
+</resources>
